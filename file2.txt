@@ -3,3 +3,4 @@ Main content
 =======
 Feature 2 content
 >>>>>>> feature-2
+Stale data
